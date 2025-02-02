@@ -4,7 +4,7 @@
 import SimpleLightbox from 'simplelightbox';
 // Додатковий імпорт стилів
 import 'simplelightbox/dist/simple-lightbox.min.css';
-import { images } from './images.js';
+//import { images } from './images.js';
 
 const images = [
   {
